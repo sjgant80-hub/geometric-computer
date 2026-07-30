@@ -1,0 +1,11 @@
+{
+  "name": "The Geometric Computer — fold codec + torus-harmonic stability",
+  "short_name": "Geometric Computer",
+  "description": "Fold a state into a number and back (lossless), and see which windings are stable torus-harmonics — golden holds, resonance cancels.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0a0c10",
+  "theme_color": "#0a0c10",
+  "icons": [{ "src": "./icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }]
+}

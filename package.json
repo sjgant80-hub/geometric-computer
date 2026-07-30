@@ -1,0 +1,13 @@
+{
+  "name": "primorial-fold",
+  "version": "0.1.0",
+  "description": "The geometric-computing stack from the v23 seed — L1: the primorial fold codec (a fold-signature ⇄ one integer, lossless by FTA/CRT · Ω=510510 · shield 127=M₇). L2: Entropic Torus Harmonics (which fold-signatures are STABLE torus-harmonics — golden=quasi-periodic=stable, resonant=cancels), riding the κ=1/φ fixed point of f(x)=1−x². Proof-of-play gated.",
+  "type": "module",
+  "license": "MIT",
+  "scripts": {
+    "test": "node --test test/fold.test.mjs test/eth.test.mjs",
+    "gate": "node konomi/run-gate.mjs"
+  },
+  "keywords": ["geometric-computing", "primorial", "torus-harmonics", "fold-signature", "kappa", "golden-ratio", "proof-of-play"],
+  "engines": { "node": ">=20" }
+}
